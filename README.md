@@ -70,9 +70,9 @@ Reference Period: The data presented in a determined year  (e.g., 2022) covers t
 *Results
 * The USA and Canada scores higher in the Americas. They are also the richest and most developed countries in this region. The USA has its legislation enacted in 1789 and Canada in 1867. Clearly their democracy is well stablished what results in high government integrity and judicial effectiveness.
 
-﻿Europe is the region where concentrates the higher number of  developed countries with the higher scores.
+* Europe is the region where concentrates the higher number of  developed countries with the higher scores.
 
-﻿Australia and New Zealand scores higher in Asia and the Pacific, consequently, they are the most developed and richer countries in the region. 
+* Australia and New Zealand scores higher in Asia and the Pacific, consequently, they are the most developed and richer countries in the region. 
 
 *Recommendations
 * Analyze the impact of additional variables, including the gross domestic product per capita, on the Government Integrity and the Judicial Effectiveness.
