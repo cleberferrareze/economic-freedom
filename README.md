@@ -47,8 +47,13 @@ Reference Period: The data presented in a determined year  (e.g., 2022) covers t
 * Produced the story based on the project objective. Then planned the key story points, the message behind them and the visuals to support.
 
 *Exploratory Analysis
-* This technique was my main guideline to conduct the analysis related to the project objective. I started looking for the linear relationships between all the 12 variables, then noticed the strongest relationship between the Government Integrity and the Judicial Effectiveness with an upward trend, meaning that the higher the government integrity, the higher was the judicial effectiveness of a country. I could also notice that for a group of countries with lower scores, the relationship was not so strong as the higher scores. What makes me to conduct a cluster analysis.
+* This technique was my main guideline to conduct the analysis related to the project objective. I started looking for the linear relationships between the two variables, then noticed a strong relationship with an upward trend, meaning that the higher the government integrity, the higher was the judicial effectiveness of a country. I could also notice that for a group of countries with lower scores, the relationship was not so strong as the higher scores. What makes me conduct a cluster analysis.
 
+*Others tools and techniques
+* Data analysis and manipulation with Python, statistical, regression and correlation analysis. 
+* Tableau, storyboard, composition and comparison charts, scatterplots and spatial analysis.
+* Advanced analytics and dashboard design. 
+* Excel, Google Sheets, Power Point
 
 **[Python scripts (.ipynb)](https://drive.google.com/file/d/1nfFrlsGLkpVGfkTMFQSUUqVeByiLgfSR/view?usp=sharing)**
 
