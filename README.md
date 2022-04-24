@@ -25,7 +25,6 @@
 *Datasets
  - Citation: “2022 Index of Economic Freedom”, accessed from https://www.heritage.org/index/  on 10th of March 2022.
 Reference Period: The data presented in a determined year  (e.g., 2022) covers the second half of two years ago (e.g., 2020) and the first half of one year ago (e.g., 2021).
- - **Datasets:**  
 
 
 ## Challenges and Decisions
@@ -54,8 +53,6 @@ Reference Period: The data presented in a determined year  (e.g., 2022) covers t
 * Tableau, storyboard, composition and comparison charts, scatterplots and spatial analysis.
 * Advanced analytics and dashboard design. 
 * Excel, Google Sheets, Power Point
-
-**[Python scripts (.ipynb)](https://drive.google.com/file/d/1nfFrlsGLkpVGfkTMFQSUUqVeByiLgfSR/view?usp=sharing)**
 
 
 ## Retrospective
